@@ -1,3 +1,13 @@
+![image](https://github.com/Feipian/Laravel-Vue3-cloudStorage/assets/142788404/4a18bae1-364a-4033-bf40-459ae0065314)
+![image](https://github.com/Feipian/Laravel-Vue3-cloudStorage/assets/142788404/9767809d-3ef6-404b-8b80-f09a32350704)
+![image](https://github.com/Feipian/Laravel-Vue3-cloudStorage/assets/142788404/cee97629-7f68-43d2-b2cb-35a068b32d99)
+
+### But 
+![image](https://github.com/Feipian/Laravel-Vue3-cloudStorage/assets/142788404/4378c51c-bba0-4853-8749-3696caeb8fb2)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
